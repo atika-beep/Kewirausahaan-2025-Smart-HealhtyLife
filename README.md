@@ -8,14 +8,14 @@
 3. Nesya Nurazira (4523210125)
 4. Muh. Ansar (4523210068)
 5. M. Dhafa Fahlevie .H (4523210071)
-6. Jovan Alvito.. (4523210..)
+6. Jovan Alfito Praditia (452321055)
 
 ---
 ## 1. Laporan Validasi Lapangan (Field Work)
-Kami telah melakukan validasi masalah di lingkungan kampus dan ... dengan melibatkan lima responden.
+Kami telah melakukan validasi masalah di lingkungan kampus dan masyarakat sekitar dengan melibatkan lima responden.
 
-a. Permasalahan Utama: .......... <br>
-b. Solusi yang Ditawarkan: ........
+a. Permasalahan Utama: Terkait kesehatan melalui pola makan dan pemenuhan gizi harian <br>
+b. Solusi yang Ditawarkan: Memberikan pemahaman tentang gizi serta pola hidup yang lebih sehat melalui Smart HealthyLife
 
 *(Link_Google_Docs)*
 ---
