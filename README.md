@@ -1,5 +1,5 @@
 # Smart-HealhtyLife
-(tagline)
+Think Smart Life Healthy
 
 ---
 ## Tim Pengembang
@@ -17,20 +17,20 @@ Kami telah melakukan validasi masalah di lingkungan kampus dan masyarakat sekita
 a. Permasalahan Utama: Terkait kesehatan melalui pola makan dan pemenuhan gizi harian <br>
 b. Solusi yang Ditawarkan: Memberikan pemahaman tentang gizi serta pola hidup yang lebih sehat melalui Smart HealthyLife
 
-*(Link_Google_Docs)*
+https://docs.google.com/document/d/1AdnxPh6wXUbqbwJSHb9wlctxcqqQhbNGtw8Ir9JjS9U/edit?usp=sharing
 ---
 ## 2. Arsitektur Keuangan dan Model Bisnis
 a. Modal Awal: Rp. ...... <br>
 b. Break Even Point (BEP): Bulan ke- ......... <br>
 c. Proyeksi Profit (Bulan ke-3): Rp. ...... <br>
 
-*(Link_Google_Sheets)*
+
 ---
 ## 3. Aspek Legalitas dan Mitigasi Resiko
-a. Status Merek: ....... <br>
-b. Bentuk Badan Usaha: ...... <br>
+a. Status Merek: Aman (Belum Terdaftar) <br>
+b. Bentuk Badan Usaha: CV (Commanditaire Vennootschap) <br>
 
-*(Link_Google_Docs_Legal)*
+https://docs.google.com/document/d/1HCC5xeyuCOiIKElD--bhJz9XP9Mpx-dfJU_al5BaKw0/edit?usp=sharing
 ---
 ## 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
