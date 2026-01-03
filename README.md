@@ -20,11 +20,11 @@ b. Solusi yang Ditawarkan: Memberikan pemahaman tentang gizi serta pola hidup ya
 https://docs.google.com/document/d/1AdnxPh6wXUbqbwJSHb9wlctxcqqQhbNGtw8Ir9JjS9U/edit?usp=sharing
 ---
 ## 2. Arsitektur Keuangan dan Model Bisnis
-a. Modal Awal: Rp. ...... <br>
-b. Break Even Point (BEP): Bulan ke- ......... <br>
-c. Proyeksi Profit (Bulan ke-3): Rp. ...... <br>
+a. Modal Awal: Rp.1.000.000 <br>
+b. Break Even Point (BEP): Bulan ke-5 <br>
+c. Proyeksi Profit (Bulan ke-3): Rp.370.000 <br>
 
-
+https://docs.google.com/spreadsheets/d/1OEmXgeNTjN5a0SSlJyqk7tI5tdYLNWnNsHANkXCVz9I/edit?usp=sharing
 ---
 ## 3. Aspek Legalitas dan Mitigasi Resiko
 a. Status Merek: Aman (Belum Terdaftar) <br>
