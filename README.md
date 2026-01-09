@@ -1,5 +1,5 @@
 # Smart-HealhtyLife
-Think Smart Life Healthy
+From Real Life To Real Action
 
 ---
 ## Tim Pengembang
