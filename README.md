@@ -34,5 +34,6 @@ https://docs.google.com/document/d/1HCC5xeyuCOiIKElD--bhJz9XP9Mpx-dfJU_al5BaKw0/
 ---
 ## 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
-*[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](LINK_VIDEO_YOUTUBE)*
+*[![Video Pitching]
+https://youtu.be/5gKiGMzDdj4
 
