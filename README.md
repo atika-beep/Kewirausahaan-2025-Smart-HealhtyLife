@@ -4,7 +4,7 @@ From Real Life To Real Action
 ---
 ## Tim Pengembang
 1. Atika Dian Azzahra (4523210024)
-2. Karin Lina Syafitri (4523210056)
+2. Karin Lina Safitri (4523210056)
 3. Nesya Nurazira (4523210125)
 4. Muh. Ansar (4523210068)
 5. M. Dhafa Fahlevie .H (4523210071)
